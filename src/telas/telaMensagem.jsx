@@ -36,7 +36,7 @@ export default function TelaMensagem() {
     console.log('Renderizando Lista de Mensagens');
     return (
         <div>
-            <h1>Mensagens:</h1>
+            <h1>Mensagens - certo:</h1>
             <ul>
             {mensagens.map(mensagem => (
                 <li key={mensagem.id}>
@@ -49,7 +49,7 @@ export default function TelaMensagem() {
             ))}
             </ul>
             <div>
-            <h2>Enviar Mensagem:</h2>
+            <h2>Enviar Mensagem - certo:</h2>
             <label htmlFor="usuarioId">Escolha o Usuário:</label>
             <select
                 id="usuarioId"
