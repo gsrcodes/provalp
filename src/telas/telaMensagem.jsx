@@ -75,7 +75,7 @@ export default function TelaMensagem() {
             <br/>
                 <button onClick={handleEnviarMensagem}>Enviar</button>
             </div>
-            <Link to="/">
+            <Link to="/provalp">
                 <button>Voltar</button>
             </Link>
         </div>

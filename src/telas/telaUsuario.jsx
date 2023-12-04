@@ -65,7 +65,7 @@ export default function TelaUsuario() {
                     <br />
                     <button onClick={handleAdicionarUsuario}>Adicionar Usuário</button>
                 </div>
-                <Link to="/">
+                <Link to="/provalp">
                     <button>Voltar</button>
                 </Link>
             </div>
