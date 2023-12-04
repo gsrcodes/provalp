@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/provalp/static/css/main.98ec47ca.css",
-    "main.js": "/provalp/static/js/main.170bba8c.js",
+    "main.js": "/provalp/static/js/main.de2d5f85.js",
     "index.html": "/provalp/index.html",
     "main.98ec47ca.css.map": "/provalp/static/css/main.98ec47ca.css.map",
-    "main.170bba8c.js.map": "/provalp/static/js/main.170bba8c.js.map"
+    "main.de2d5f85.js.map": "/provalp/static/js/main.de2d5f85.js.map"
   },
   "entrypoints": [
     "static/css/main.98ec47ca.css",
-    "static/js/main.170bba8c.js"
+    "static/js/main.de2d5f85.js"
   ]
 }
