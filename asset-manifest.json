@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/provalp2/static/css/main.98ec47ca.css",
+    "main.js": "/provalp2/static/js/main.e3b1a1e6.js",
+    "index.html": "/provalp2/index.html",
+    "main.98ec47ca.css.map": "/provalp2/static/css/main.98ec47ca.css.map",
+    "main.e3b1a1e6.js.map": "/provalp2/static/js/main.e3b1a1e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.e3b1a1e6.js"
+  ]
+}
