@@ -17,7 +17,7 @@ function App() {
           <Routes>
             <Route path="/mensagem" element={<TelaMensagem />} />
             <Route path="/usuario" element={<TelaUsuario />} />
-            <Route path="/" element={<TelaMenu/>} />
+            <Route path="/provalp2" element={<TelaMenu/>} />
             <Route path="*" element={<Tela404 />} />
           </Routes>
         </BrowserRouter>
